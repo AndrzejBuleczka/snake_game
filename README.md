@@ -11,4 +11,4 @@
    `python main.py`
   - snake moves with arrow keys on your keyboard
 
-![img.png](img.png)
+![img_1.png](img.png)
